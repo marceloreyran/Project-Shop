@@ -1,2 +1,2 @@
 # Project-Shop
-This is a project of an online store.
+This is a project of an online store with Html, Css and Javascritp...
